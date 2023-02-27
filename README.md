@@ -14,7 +14,6 @@ Here are some ideas to get you started:
 -->
 
 # Hello, my name is Giselle
-i'm from brazil
 
 <br>
 
