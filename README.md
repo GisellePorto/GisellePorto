@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Hello, my name is Giselle
+# 👋 Hello! Welcome to my Github profile.
 
 <br>
 
